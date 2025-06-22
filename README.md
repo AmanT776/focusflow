@@ -3,13 +3,25 @@ FocusFlow is a sleek and intuitive productivity app designed to help you manage 
 ![Screenshot from 2025-06-22 13-36-56](https://github.com/user-attachments/assets/82997019-9bb2-4283-ae53-9a2bca432f32)
 
 ## 🚀 Features
-⏱️ Pomodoro Timer – Stay productive with focused work and scheduled breaks.
-✅ Task Management – Add, edit, and complete your daily to-dos.
-🌙 Dark Mode – Focus-friendly interface for late-night sessions.
+### ⏱️ Pomodoro Timer – Stay productive with focused work and scheduled breaks.
+### ✅ Task Management – Add, edit, and complete your daily to-dos.
+### 🌙 Dark Mode – Focus-friendly interface for late-night sessions.
 ❝Quote-get quotes
 ## 🛠️ Tech Stack
-Frontend: React.js, Tailwind CSS
-State Management: useState, useEffect
-Icons & UI: Material UI, Shadcn/UI 
-Deployment:  Netlify 
-try it on: https://friendly-seahorse-7d4287.netlify.app
+### Frontend: React.js, Tailwind CSS
+### State Management: useState, useEffect
+### Icons & UI: Material UI, Shadcn/UI 
+### Deployment:  Netlify 
+### try it on: https://friendly-seahorse-7d4287.netlify.app
+
+## 📦 Installation
+### Clone the repo and install dependencies:
+### git clone https://github.com/your-username/focusflow.git
+### npm install
+Start the development server:
+### npm run dev
+
+## 🧑‍💻 Author
+### Built with 💙 by Amanuel Tesfaye
+### 📫 Email me : amante776@gmail.com
+
