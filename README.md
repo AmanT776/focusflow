@@ -12,4 +12,4 @@ Frontend: React.js, Tailwind CSS
 State Management: useState, useEffect
 Icons & UI: Material UI, Shadcn/UI 
 Deployment:  Netlify 
-try it on: https://friendly-seahorse-7d4287.netlify.app/quotes
+try it on: https://friendly-seahorse-7d4287.netlify.app
